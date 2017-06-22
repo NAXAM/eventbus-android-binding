@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.EventBus.Droid</id>
+        <version>3.0.0-pre1</version>
+        <description>Xamarin Binding Library - Greenbot:EventBus</description>
+        <authors>Do Thanh Binh</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Greenbot:EventBus</title>
+        <releaseNotes>Greenbot:EventBus v3.0.0</releaseNotes>
+        <summary>Xamarin Binding Library - Greenbot:EventBus</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/eventbus-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, eventbus, event-bus</tags>
+        <dependencies>
+            <!--<dependency id="Naxam.Cat.Droid" version="1.0.4-pre1" />-->
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.EventBus.Droid/bin/Release/Naxam.EventBus.Droid.dll" target="lib/MonoAndroid10/Naxam.EventBus.Droid.dll" />
+    </files>
+</package>

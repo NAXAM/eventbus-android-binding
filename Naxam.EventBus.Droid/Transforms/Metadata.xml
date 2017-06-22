@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<!--  <attr path="/api/package[@name='org.greenrobot.eventbus.util']/class[@name='ErrorDialogFragmentFactory.Support']/method[@name='createErrorFragment' and count(parameter)=2 and parameter[1][@type='org.greenrobot.eventbus.util.ThrowableFailureEvent'] and parameter[2][@type='android.os.Bundle']]" name="managedReturn">Java.Lang.Object</attr>-->
+  <attr path="/api/package[@name='org.greenrobot.eventbus.util']/class[@name='ErrorDialogFragmentFactory.Honeycomb']/method[@name='createErrorFragment' and count(parameter)=2 and parameter[1][@type='org.greenrobot.eventbus.util.ThrowableFailureEvent'] and parameter[2][@type='android.os.Bundle']]" name="managedReturn">Java.Lang.Object</attr>
+</metadata>
